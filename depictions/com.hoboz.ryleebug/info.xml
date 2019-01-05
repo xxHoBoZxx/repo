@@ -1,6 +1,6 @@
 <package>
 	<id>com.hoboz.ryleebug</id>
-	<name>Puffy AEs</name>
+	<name>My first public theme, Enjoy!!</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -8,15 +8,15 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>mobilesubstrate, Anemone</package>
 	</dependencies>
 	<shortDescription>This is my first public theme. Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
 		<description>Theme has over 150 icons theme, share sheets and settings themed.</description>
 		<description>Should work on iOS 10 - 11.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Update are coming soon<br/> 
+		And be on the lookout for more themes.
 		]]>
 		</description>
 	</descriptionlist>
