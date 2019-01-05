@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.hoboz.hobozpuffyae</id>
+	<name>Puffy AEs</name>
+	<version>2.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a few Puffy AEs I made. Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>A few Puffy AEs I made for personal use.</description>
+		<description>Should work on iOS 10 - 11.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -31,9 +31,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Itinial Release</change>
+		<change>A nice puffy look</change>
+		<change>Looks nice</change>
 	</changelog>
 	<links>
 		<link>
